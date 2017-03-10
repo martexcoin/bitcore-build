@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/martexcoin/bitcore-build"
   },
   "keywords": [
     "bitcore"
